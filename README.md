@@ -51,9 +51,6 @@ Analyzed student performance data to identify key factors influencing success.
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Himanshu4820&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu4820&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
 
 <p align="center">
   <!-- Top Languages -->
