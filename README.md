@@ -21,13 +21,21 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en/microsoft-365/excel)
 
 ---
+## 🚀 Featured Projects  
 
-## 📊 Projects
-| Project | Description | Tools |
-|----------|--------------|-------|
-| [MarketMetrics – FMCG Pricing Trends](#) | Analyzed pricing trends and seasonal patterns in grocery data | Python |
-| [Sales Data Analysis](#) | Identified product and customer insights using SQL queries | SQL, Python |
-| [Student Performance Analysis](#) | Explored key factors influencing academic outcomes | Python |
+### 🛒 [MarketMetrics – FMCG Pricing Trends](https://github.com/Himanshu-SharmaDS/project-4)
+Analyzed FMCG pricing trends to understand market dynamics and price elasticity.  
+📊 Focused on price trends, competitor pricing strategies, and demand forecasting.
+
+### 📊 [Sales Data Analysis](https://github.com/Himanshu-SharmaDS/project6)
+Explored and analyzed sales performance data using Python & Power BI.  
+📈 Visualized KPIs and identified trends to improve business strategy.
+
+### 📚 [Student Performance Analysis](https://github.com/NeelChaturvedi/Student-Performance-Data)
+Analyzed student performance data to identify key factors influencing success.  
+🔍 Conducted EDA, feature selection, and visualized insights for education improvement.
+
+
 
 ---
 ## 🌐 Connect with Me  
