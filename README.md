@@ -37,3 +37,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu4820/Himanshu4820)
 
 
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu4820&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu4820&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu4820&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
