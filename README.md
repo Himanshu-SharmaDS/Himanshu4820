@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Himanshu
 
-<!--
-**Himanshu4820/Himanshu4820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Scientist** passionate about turning complex data into actionable insights through analysis and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills & Tools
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Data Tools:** Excel, Power BI, Tableau  
+**Areas:** EDA, Data Cleaning, Visualization, Predictive Modeling
+
+---
+
+## 📊 Projects
+| Project | Description | Tools |
+|----------|--------------|-------|
+| [MarketMetrics – FMCG Pricing Trends](#) | Analyzed pricing trends and seasonal patterns in grocery data | Python |
+| [Sales Data Analysis](#) | Identified product and customer insights using SQL queries | SQL, Python |
+| [Student Performance Analysis](#) | Explored key factors influencing academic outcomes | Python |
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/himanshu-sharma-275255219/) • [Email](himanshusharma64434@gmail.com)
