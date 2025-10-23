@@ -52,3 +52,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu4820&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Himanshu4820&label=Profile%20views&color=0e75b6&style=flat)
