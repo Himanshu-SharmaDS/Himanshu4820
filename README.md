@@ -4,6 +4,15 @@
 
 ---
 
+## 👨‍💻 About Me
+- 🎓 Completed Data Science training focused on real-world analytics and machine learning projects  
+- 🤖 Skilled in **Machine Learning**, **Python**, **SQL**, and **Excel** for data analysis and predictive modeling  
+- 📊 Experienced in **data cleaning**, **EDA**, and **visualization** to uncover actionable insights  
+- 💡 Worked on projects involving FMCG pricing trends, sales performance, and student analytics  
+- 🚀 Passionate about applying data-driven solutions to solve business challenges and support smarter decisions  
+
+---
+
 ## 🧠 Skills & Tools  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
